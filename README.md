@@ -33,7 +33,7 @@
 ║      Open to collaborations & open source                ║
 ║                                                          ║
 ║  > fun_fact                                              ║
-║      I turn  coffee  into  </code>  ☕💻                 ║
+║      I turn  coffee  into  </code>  ☕💻                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
